@@ -37,3 +37,4 @@ Keep **service_role** out of the client; use Edge Functions for complex/privileg
 - Schedule creation UI is stubbed (Create Org is implemented; schedule generation can be added).
 - Candidate list uses a server RPC for eligibility checks (good pattern), but you may want richer UI display names.
 - Auto-schedule algorithm is a baseline heuristic; can be upgraded to backtracking/ILP later.
+.
