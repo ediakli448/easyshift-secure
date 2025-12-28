@@ -47,7 +47,7 @@ export function AutoScheduleDialog({
         </div>
 
         <p className="mt-2 text-sm text-gray-600">
-          Optional per-user notes as JSON map: {'{ "user_uuid": "mornings only" }'}
+          Optional per-user notes as JSON map: &#123; "user_uuid": "mornings only" &#125;
         </p>
 
         <textarea
